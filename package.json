@@ -33,7 +33,7 @@
     "audio-decode": "^1.4.0",
     "cors": "^2.8.5",
     "fs-extra": "^7.0.1",
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "graphql": "^14.0.2",
     "graphql-tools": "^4.0.3",
     "graphql-type-json": "^0.2.1",
